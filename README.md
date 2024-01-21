@@ -1,2 +1,3 @@
 # Learning-git
-cofig git
+cofig github
+Author Manprabesh Boruah DCCVDVD
